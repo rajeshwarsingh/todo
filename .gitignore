@@ -6,6 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+todo-backend/.nyc_output/
+todo-backend/node_modules/
+
+todo-frontend/node_modules/
+todo-frontend/coverage/
+
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
